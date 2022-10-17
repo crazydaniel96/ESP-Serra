@@ -34,7 +34,7 @@ bool water_inib[NUM_PUMP] = {false};
 //const char* password = "";
 
 //weather info
-const char* OpenWeatherLink = "http://api.openweathermap.org/data/2.5/weather?q=Milano,Italy&APPID=0496852ec5cb406561748d45dc7dc486";
+const char* OpenWeatherLink = "";
 
 // Telegram BOT 
 #define BOT_TOKEN ""
